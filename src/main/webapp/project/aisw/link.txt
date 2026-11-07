@@ -1,0 +1,19 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="/AIproject/project/bootstrap-4.6.0-dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/header.content7cd5.css" />
+<link defer rel="stylesheet" type="text/css" href="/AIproject/project/_res/_common/css/cms.css" />
+<link href="/AIproject/project/_res/knu/_share/css/cms-commonb50f.css" defer rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css"href="/AIproject/project/_res/knu/aisw/css/crane-and-hyuk.content350a.css" />
+<link rel="stylesheet" type="text/css" href="../../_res/knu/aisw/css/location.content350a.css" />
+<link defer rel="stylesheet" type="text/css" href="../_res/knu/_share/css/swiper.min.css" />
+<link rel="stylesheet" type="text/css" href="../_res/knu/_share/css/main-visual-temp08.widget03b3.css" />
+<link href="fboard.jpg" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/admission-guide.content350a.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/_share/css/announcement-mini-board-template-08-representative.widget1270.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/main3d9d.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/main-content01.content7204.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/main-content02.content3d9d.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/_share/css/list-cal01-013b78.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/top-of-curriculum.content350a.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/top-of-bachelors-information.content350a.css" />
+<link rel="stylesheet" type="text/css" href="/AIproject/project/_res/knu/aisw/css/admission-guide.content350a.css" />
